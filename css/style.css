@@ -51,7 +51,7 @@ header{
 
 header #logo{
 
-    width: 30%;
+    width: 100%;
     
     color: white;
 
@@ -59,8 +59,12 @@ header #logo{
 
 header menu{
 	
-	width: 70%;
+	width: 100%;
 	
+}
+
+header menu ul{
+    
 }
 
 .grid-1{
