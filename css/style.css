@@ -29,6 +29,8 @@ html,body,header,footer,main,article,div,nav,span,menu,ul,ol,li,a,p,h1,h2,h3,h4,
 	--blueColor: #3A86FF;
 }
 
+
+
 header{
 
     width: 100%;
@@ -40,10 +42,9 @@ header{
     justify-content: center;
     
     background-color: var(--redColor);
-    
-    
 
 }
+
 
 header #logo{
 
